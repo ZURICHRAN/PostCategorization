@@ -1,0 +1,38 @@
+# 📚 NLP Stack Overflow Post Categorization
+
+This project analyzes and categorizes over 20,000 Stack Overflow posts related to Natural Language Processing (NLP), using data collected via the Stack Exchange API.
+
+## 🔍 Project Overview
+
+- Collected NLP-tagged posts from Stack Overflow
+- Preprocessed post titles, questions, and accepted answers
+- Created word clouds and basic visualizations
+- Designed a rule-based multi-label classification system
+- Categorized posts into:
+  - Implementation Issues
+  - Tool Specific
+  - NLP Tasks
+  - Conceptual Understanding
+
+## 🛠️ Technologies Used
+
+- Python (Pandas, NLTK, spaCy, Matplotlib)
+- Stack Exchange API
+- Jupyter Notebook
+
+## 📁 Dataset
+
+The full dataset is **not included** due to GitHub file size limits.
+
+> You can reproduce the dataset using the provided code and your own Stack Exchange API key.
+
+## 📎 Files
+
+- `NLP_A2.ipynb` — Main notebook (includes data collection, processing, visualization, classification)
+- `figures/` — Word cloud and plots
+- `README.md` — Project description
+
+## 📌 Author
+
+Ziran Liu
+The University of Adelaide — NLP Assignment 2  
